@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋, This is Monty Sitzman!
 [![Gmail Badge](https://img.shields.io/badge/-montysitzman@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:montysitzman@gmail.com)](mailto:montysitzman@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Monty Sitzman-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Monty Sitzman/)](https://www.linkedin.com/in/Monty Sitzman/) [![Github Badge](https://img.shields.io/badge/-MontyLS-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MontyLS/)](https://www.github.com/MontyLS/) <p align='left'>Current Student In a BIA program with TripleTen with 6 successfully completed projects. I'm aspiring to make a career change and jump into the tech field.  </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1vyllexMON3O5Xk9etpNx0tW5CJrFCqxE/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-Monty Sitzman-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Monty Sitzman/)](https://www.linkedin.com/in/Monty Sitzman/)
+[![Github Badge](https://img.shields.io/badge/-MontyLS-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MontyLS/)](https://www.github.com/MontyLS/) <p align='left'>Current Student In a BIA program with TripleTen with 6 successfully completed projects. I'm aspiring to make a career change and jump into the tech field.  </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1vyllexMON3O5Xk9etpNx0tW5CJrFCqxE/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MontyLS alt=MontyLS /> </p>
 
