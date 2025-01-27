@@ -21,7 +21,6 @@ Data Analysis: Strong analytical mindset, with the ability to extract, analyze, 
 Business Intelligence: Applying BI tools and techniques to support business strategies and improve decision-making.
 Projects
 
-Here are a few examples of my work:
 
 My Approach
 Data-Driven: I believe in using data to tell stories and solve business challenges.
